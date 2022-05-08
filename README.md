@@ -1,8 +1,9 @@
+<p align="center"
 <a href = "https://advwastaken.github.io/dnssijua-web/">
 <img src = "https://img.shields.io/badge/GitHub%20Page-active-green" />
 </a>
-
-</br>
+</p>
+<br/>
 
 <p align="center">
 <img src="http://dnssijua.com/images/logo-1.png">
