@@ -1,5 +1,6 @@
-[![Downloads](https://img.shields.io/badge/GitHub%20Page-active-green)]
-(https://advwastaken.github.io/dnssijua-web/)
+<a href = "https://advwastaken.github.io/dnssijua-web/">
+<img src = "https://img.shields.io/badge/GitHub%20Page-active-green" />
+</a>
 
 <p align="center">
 <img src="http://dnssijua.com/images/logo-1.png">
