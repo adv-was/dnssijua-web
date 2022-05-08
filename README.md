@@ -16,3 +16,5 @@ This website is powered by : </br>
 <img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjsJJNkJXDf8KTp8UGExyf908fh1zgOXwC8A&usqp=CAU"/>
 </a>
 </p>
+
+> Note : Updated 6 months ago.
