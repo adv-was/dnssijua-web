@@ -12,5 +12,7 @@ De Nobili School, Koradih is a private Catholic primary and secondary school loc
 <p align="center">
 This website is powered by : </br>
 </br>
+<a href="https://getbootstrap.com/">
 <img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjsJJNkJXDf8KTp8UGExyf908fh1zgOXwC8A&usqp=CAU"/>
+</a>
 </p>
