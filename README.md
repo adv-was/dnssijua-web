@@ -1,5 +1,4 @@
-[![Downloads]
-(https://img.shields.io/badge/GitHub%20Page-active-green)]
+[![Downloads](https://img.shields.io/badge/GitHub%20Page-active-green)]
 (https://advwastaken.github.io/dnssijua-web/)
 
 <p align="center">
