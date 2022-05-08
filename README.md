@@ -1,3 +1,7 @@
+[![Downloads]
+(https://img.shields.io/badge/GitHub%20Page-active-green)
+(https://advwastaken.github.io/dnssijua-web/)
+
 <p align="center">
 <img src="http://dnssijua.com/images/logo-1.png">
 </p>
