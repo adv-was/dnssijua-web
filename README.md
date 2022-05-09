@@ -21,4 +21,4 @@ This website is powered by : </br>
 </a>
 </p>
 
-> Note : Updated 6 months ago.
+> Note : Updated 6 months ago, single page web app.
