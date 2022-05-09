@@ -1,5 +1,5 @@
 [![advwastaken - dnssijua-web](https://img.shields.io/static/v1?label=advwastaken&message=dnssijua-web&color=blue&logo=github)](https://github.com/advwastaken/dnssijua-web "Go to GitHub repo")
-
+[![GitHub Page](https://img.shields.io/badge/GitHub%20Page-active-green)](https://advwastaken.github.io/dnssijua-web/)
 <br/>
 
 <p align="center">
